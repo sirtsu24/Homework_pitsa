@@ -1,0 +1,11 @@
+C:\Users\Sirje\Desktop\pizzaShop\pizzaShop\obj\Debug\netcoreapp3.0\pizzaShop.csprojAssemblyReference.cache
+C:\Users\Sirje\Desktop\pizzaShop\pizzaShop\obj\Debug\netcoreapp3.0\pizzaShop.AssemblyInfoInputs.cache
+C:\Users\Sirje\Desktop\pizzaShop\pizzaShop\obj\Debug\netcoreapp3.0\pizzaShop.AssemblyInfo.cs
+C:\Users\Sirje\Desktop\pizzaShop\pizzaShop\bin\Debug\netcoreapp3.0\pizzaShop.exe
+C:\Users\Sirje\Desktop\pizzaShop\pizzaShop\bin\Debug\netcoreapp3.0\pizzaShop.deps.json
+C:\Users\Sirje\Desktop\pizzaShop\pizzaShop\bin\Debug\netcoreapp3.0\pizzaShop.runtimeconfig.json
+C:\Users\Sirje\Desktop\pizzaShop\pizzaShop\bin\Debug\netcoreapp3.0\pizzaShop.runtimeconfig.dev.json
+C:\Users\Sirje\Desktop\pizzaShop\pizzaShop\bin\Debug\netcoreapp3.0\pizzaShop.dll
+C:\Users\Sirje\Desktop\pizzaShop\pizzaShop\bin\Debug\netcoreapp3.0\pizzaShop.pdb
+C:\Users\Sirje\Desktop\pizzaShop\pizzaShop\obj\Debug\netcoreapp3.0\pizzaShop.dll
+C:\Users\Sirje\Desktop\pizzaShop\pizzaShop\obj\Debug\netcoreapp3.0\pizzaShop.pdb
